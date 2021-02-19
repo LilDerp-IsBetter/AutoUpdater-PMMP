@@ -5,5 +5,5 @@ branches:
 projects:
   AutoUpdater-PMMP:
     path: ""
-    icon: "/assets/icon.jpg"    
+    icon: "/assets/icon.png"    
 ...
